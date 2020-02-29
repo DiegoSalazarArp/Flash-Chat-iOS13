@@ -18,9 +18,9 @@ ex:
 ex:
 
 1.- Una vez creado los usuarios, ingresamos y veremos nuestra vista de Chat:
-
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/llUVidMkK6RQgyBRLd/giphy.gif">
-
+</p>
 2.- Podemos verificar que al crear el mensaje, este se guarda en Firebase. Luego ingresamos con un el otro usuario.
 
 <img align="center" src="https://media.giphy.com/media/YRDx0X8z3gp83fl3pC/giphy.gif">
