@@ -7,8 +7,8 @@ ex:
 
 1.- Para iniciar un usuario nuevo, se debe registrar mediante un correo y contraseña (se crean 2 perfiles).
 
-<img align="center" src="https://media.giphy.com/media/WopdBs4vmgUBHN89Vj/giphy.gif">
-<img align="center" src="https://media.giphy.com/media/Y1GoOUsQ2OqkFVHoOH/giphy.gif">
+<img src="https://media.giphy.com/media/WopdBs4vmgUBHN89Vj/giphy.gif">
+<img src="https://media.giphy.com/media/Y1GoOUsQ2OqkFVHoOH/giphy.gif">
 
 2.- Una vez realizada esta acción, verificamos la creación de usuario en Firebase.
 
