@@ -4,4 +4,4 @@ ex: App de mensajería utilizando Firebase (Database & Auth), se mostrará tanto
 
 ### Auth ###
 
-<img align="right" width="600" height="200" src="https://media.giphy.com/media/WopdBs4vmgUBHN89Vj/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/WopdBs4vmgUBHN89Vj/giphy.gif">
